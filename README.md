@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tavr3z
+- 👋 Hi, I’m Tavares
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on game development
